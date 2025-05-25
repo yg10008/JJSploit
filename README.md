@@ -1,4 +1,4 @@
-﻿# Python Practice Journey 🚀 – AI + Cyber Foundations
+﻿# Python Practice Journey 🚀 – Foundations
 
 Welcome to my structured Python learning repository. This repo is organized into **multi-day phases** where each group of tasks builds your skills toward the ultimate goal
 
