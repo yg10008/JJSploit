@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Logs
+*.log
+
+# VSCode project settings (optional, if you use VSCode)
+.vscode/
+
+# Python environment files
+*.env
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# Car JSON output directory
+DAY123/TASK3/yourCars/*.json
